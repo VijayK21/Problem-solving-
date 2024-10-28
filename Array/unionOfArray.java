@@ -10,7 +10,7 @@ public class unionOfArray {
 		int[] b = {1,2,3};
 		ArrayList<Integer> c = new ArrayList<Integer>();
 		
-		System.out.println(findUnion(a,b));  //sysout
+		System.out.println(findUnion(a,b));  // HashSet<Integer> st= new HashSet<>();
 		
 		}
 
