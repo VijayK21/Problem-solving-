@@ -23,7 +23,7 @@ public class findCountTriplet {
                     count++;}
                 }
             }
-        }   //test
+        }   //test1
         
         return count;
     }
